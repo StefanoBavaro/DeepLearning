@@ -6,4 +6,4 @@
 - Benedictus Kent Rachmat
 - Dana Aubakirova
 - Diego Andres Torres Guarin
-- Stevano Bavaro
+- Stefano Bavaro
